@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 .env
 .vscode/
+incident_report.pdf
+incident_report.json
