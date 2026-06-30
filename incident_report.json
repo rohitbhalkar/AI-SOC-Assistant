@@ -1,0 +1,29 @@
+[
+    {
+        "attack": "SQL Injection",
+        "severity": "High",
+        "source_ip": "10.10.1.4",
+        "timestamp": "2026-06-27 12:18:55",
+        "mitre_id": "T1190",
+        "technique": "Exploit Public-Facing Application",
+        "recommendation": "Review web server logs and enable WAF."
+    },
+    {
+        "attack": "Port Scan",
+        "severity": "Medium",
+        "source_ip": "172.16.0.25",
+        "timestamp": "2026-06-27 12:20:10",
+        "mitre_id": "T1046",
+        "technique": "Network Service Discovery",
+        "recommendation": "Investigate scanning activity and block attacker IP."
+    },
+    {
+        "attack": "Brute Force Attack",
+        "severity": "High",
+        "source_ip": "192.168.1.20",
+        "timestamp": "Multiple Failed Logins",
+        "mitre_id": "T1110",
+        "technique": "Brute Force",
+        "recommendation": "Enable MFA and lock the account after repeated failures."
+    }
+]

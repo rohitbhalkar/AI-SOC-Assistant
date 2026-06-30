@@ -1,0 +1,7 @@
+2026-06-27 12:10:11 INFO User login successful IP=192.168.1.15 User=rohit
+2026-06-27 12:12:01 WARNING Failed login IP=192.168.1.20 User=admin
+2026-06-27 12:12:05 WARNING Failed login IP=192.168.1.20 User=admin
+2026-06-27 12:12:10 WARNING Failed login IP=192.168.1.20 User=admin
+2026-06-27 12:15:40 INFO File uploaded User=rohit
+2026-06-27 12:18:55 ERROR SQL Injection Attempt IP=10.10.1.4
+2026-06-27 12:20:10 WARNING Port Scan Detected IP=172.16.0.25
